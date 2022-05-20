@@ -5,7 +5,7 @@
 
 
 
-<a href="https://www.codewars.com/users/Mnewer"><img align="left" width="100%" src = "https://www.codewars.com/users/Mnewer/badges/large" />
+<a href="https://www.codewars.com/users/Mnewer"><img align="left" width="50%" src = "https://www.codewars.com/users/Mnewer/badges/large" />
 
 
 <img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=Mnewer&show_icons=true&theme=dark" />
