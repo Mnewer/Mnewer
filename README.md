@@ -17,7 +17,7 @@
 
 
 ***
-## Just getting into programming, doing some online courses before startin a part time vocational Back-end dev class this fall.
+## Just getting into programming, doing some online courses before starting a part time vocational Back-end dev class this fall.
 
 ### Project links:
 * [BMI Calculator](https://mnewer.github.io/bmi-calculator/ "BMI Calculator")
