@@ -18,7 +18,7 @@
 
 ***
 ## Just started studying Back-end development at [Noroff](https://www.noroff.no/en/studies/vocational-school/back-end-development "Noroff")
-### My progression so [far](https://github.com/Mnewer/BED "BED")
+
 
 ### Project links:
 * [BMI Calculator](https://mnewer.github.io/bmi-calculator/ "BMI Calculator")
