@@ -23,6 +23,7 @@
 ### Project links:
 * [BMI Calculator](https://mnewer.github.io/bmi-calculator/ "BMI Calculator")
 * [Sneek Game](https://mnewer.github.io/Sneek/)
+* [BubbleSort Animation](https://mnewer.github.io/BubbleSortAnimation/)
 ***
 
 <a href="https://www.codewars.com/users/Mnewer"><img align="left" width="50%" src = "https://www.codewars.com/users/Mnewer/badges/large" />
