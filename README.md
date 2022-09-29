@@ -17,7 +17,7 @@
 
 
 ***
-## Just started studying Back-end development at [Noroff](https://www.noroff.no/en/studies/vocational-school/back-end-development "Noroff")
+## At the moment I'm part time studying Back-end development at [Noroff](https://www.noroff.no/en/studies/vocational-school/back-end-development "Noroff")
 
 
 ### Project links:
