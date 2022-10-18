@@ -3,7 +3,7 @@
 <td valign="top"><a href="https://www.linkedin.com/in/jan-odvar-grindheim-90583352/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jan Odvar Grindheim | LinkedIn"/></a></td>
 
 <td valign="top" size="120">
-<a href="mailto:jan.odvar@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Jan Odvar Grindheim | Protonmail"/></a></td>
+<a href="mailto:jocodes@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Jan Odvar Grindheim | Protonmail"/></a></td>
 
 <td valign="top"><a href="https://www.codewars.com/users/Mnewer"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Jan Odvar Grindheim | CodeWars"/></a></td>
 
