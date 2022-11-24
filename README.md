@@ -21,7 +21,7 @@
 
 
 ### Project links:
-* [bmiHub / BMI Calculator](https://bmihub.netlify.app/ "bmiHUB / BMI Calculator")
+* [bmiHub / BMI Calculator](https://bmihub.netlify.app/{:target="_blank"} "bmiHUB / BMI Calculator")
 * [Sneek Game](https://mnewer.github.io/Sneek/)
 * [BubbleSort Animation](https://mnewer.github.io/BubbleSortAnimation/)
 ***
