@@ -21,6 +21,7 @@ I'm in the process now of making a career change into web development. After 12 
 
 *   🌍  I'm based in Rogaland, Norway
 *   🧠  At the moment I'm part time studying Back-end development at [Noroff](https://www.noroff.no/en/studies/vocational-school/back-end-development "Noroff")
+*   🧗🧘‍♂️🕹️
 
 <br>
 
