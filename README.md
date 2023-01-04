@@ -17,7 +17,7 @@ Hi 👋 My name is Jan Odvar Grindheim
 ====================================
 
 
-I'm in the process now of making a career change into web development. After 12 years with various position in the oil industry with half the time setting up electronics, calibration/testing of high performance measuring equipment. The other half I have been working as a service engineer in charge of service, calibration, maintenance and upgrade projects of internal assembly and test facilities.
+I'm in the process now of making a career change into web development. After 12 years with various positions in the oil industry with half the time setting up electronics, calibration/testing of high performance measuring equipment. The other half I have been working as a service engineer in charge of service, calibration, maintenance and upgrade projects of internal assembly and test facilities.
 
 *   🌍  I'm based in Rogaland, Norway
 *   🧠  At the moment I'm part time studying Back-end development at [Noroff](https://www.noroff.no/en/studies/vocational-school/back-end-development "Noroff")
