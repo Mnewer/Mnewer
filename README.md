@@ -23,9 +23,8 @@ I'm in the process now of making a career change into web development. After 12 
 *   🧠  At the moment I'm part time studying Back-end development at [Noroff](https://www.noroff.no/en/studies/vocational-school/back-end-development "Noroff")
 *   🧗🧘‍♂️🕹️
 
-<br>
 
-
+## Working with:
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -35,10 +34,7 @@ I'm in the process now of making a career change into web development. After 12 
 </p>
 
 
-
-
-
-### Project links:
+## Project links:
 * [bmiHub / BMI Calculator](https://bmihub.netlify.app/ "bmiHUB / BMI Calculator")
 * [Sneek Game](https://mnewer.github.io/Sneek/)
 * [BubbleSort Animation](https://mnewer.github.io/BubbleSortAnimation/)
