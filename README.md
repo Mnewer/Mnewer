@@ -36,10 +36,6 @@ I'm in the process now of making a career change into web development. After 12 
 </p>
 
 
-## Project links:
-* [bmiHub / BMI Calculator](https://bmihub.netlify.app/ "bmiHUB / BMI Calculator")
-* [Sneek Game](https://mnewer.github.io/Sneek/)
-* [BubbleSort Animation](https://mnewer.github.io/BubbleSortAnimation/)
 ***
 
 <a href="https://www.codewars.com/users/Mnewer"><img align="left" width="50%" src = "https://www.codewars.com/users/Mnewer/badges/large" />
