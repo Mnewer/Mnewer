@@ -27,7 +27,7 @@ Currently, I'm diving into the world of web development, with a focus on back-en
 
 #### 🚀 Transitioning Careers
 
-This career change signifies my commitment to continuous learning and growth. I'm excited to blend my technical background with new skills in web development.
+This career change signifies my commitment to continuous learning and growth. I'm excited to blend my technical background with new skills in software development.
 
 ## Professional Update
 
