@@ -13,35 +13,23 @@
 Hi 👋 My name is Jan Odvar Grindheim
 ====================================
 
-#### 🛢️ From Oil Industry to SW Development
+🛠 Software Developer
+For the past two years, I’ve been part of a small team building a full automation framework from scratch — covering backend, APIs, business logic and frontend development. Our stack includes Node.js, MongoDB, Python, and React — with a strong focus on automation, integration, and business process optimization.
 
-For the past 12 years, I've navigated various roles in the oil industry, gaining extensive experience in electronics, calibration, and testing of high-performance measuring equipment. My journey includes significant time as a service engineer, overseeing service, calibration, maintenance, and upgrade projects for internal assembly and test facilities.
+🎓 Back-End Development Graduate
+Completed my studies in backend development one year ago, focusing on server-side development, databases, and scalable architecture.
+
+⚙ Previous Experience: Technical Background
+Before shifting to software development, I spent over a decade in the oil industry — working hands-on with electronics, calibration, high-precision measurement systems, and project management as a service engineer. This technical foundation still fuels my passion for problem-solving and system design.
+
+💡 What I Enjoy Working On
+	•	Automation and workflow optimization
+	•	API integrations and backend architecture
+	•	Data pipelines and system interoperability
+	•	Building clean, maintainable code
 
 🌍 Based in Rogaland, Norway
-
-## My Current Journey
-
-#### 🧠 Back-End Development at Noroff
-
-Currently, I'm diving into the world of web development, with a focus on back-end technologies. I'm part-time studying at [Noroff](https://www.noroff.no/en/studies/vocational-school/back-end-development), where I'm honing my skills in programming, database management, and server-side technologies.
-
-#### 🚀 Transitioning Careers
-
-This career change signifies my commitment to continuous learning and growth. I'm excited to blend my technical background with new skills in software development.
-
-## Professional Update
-
-#### 💼 Systems Consultant in Aider
-
-As I pursue my studies, I've also stepped into the role of a System Consultant in [Aider](https://aider.no/#). This position allows me to apply my newly accuired skills and technical knowledge in a new and challenging environment.
-
-## Interests
-
-I'm not just about work and study. I enjoy a range of activities including:
-
-* 🧗 Rock Climbing
-* 🧘‍♂️ Yoga
-* 🕹️ Gaming
+☕ Always learning, always building.
 
 ## Working with:
 
