@@ -1,4 +1,4 @@
-# ["hip", "hip"], You got here!
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=4000&pause=1000&width=435&lines=%5B%22hip%22%2C%22hip%22%5D+You+got+here!)](https://git.io/typing-svg)
 
 <td valign="top"><a href="https://www.linkedin.com/in/jan-odvar-grindheim-90583352/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jan Odvar Grindheim | LinkedIn"/></a></td>
 
@@ -32,20 +32,9 @@ Before shifting to software development, I spent over a decade in the oil indust
 ☕ Always learning, always building.
 
 ## Working with:
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-            <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Analysts_PBI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=36&qlt=99&fmt=png-alpha&fit=constrain" width="36" height="36" alt="PowerBI" /></a>
-<a href="https://flow.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/icons/Hero_PAU_icon.png" width="36" height="36" alt="PowerAutomate" /></a>
-<a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/power-platform/Microsoft_Power_Platform_Icons_PowerApps.svg" width="36" height="36" alt="PowerApps" /></a>
-</p>
+<img src="https://skillicons.dev/icons?i=go,python,js&perline=3" />
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,&perline=7" />
+<img src="https://skillicons.dev/icons?i=postman,docker,postgres,mongodb&perline=7" />
 
 ---
 
