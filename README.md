@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=4000&pause=1000&width=435&lines=%5B%22hip%22%2C%22hip%22%5D+You+got+here!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=4000&pause=1000&width=500&lines=%5B%22hip%22%2C%22hip%22%5D+You+got+here!)](https://git.io/typing-svg)
 
 <td valign="top"><a href="https://www.linkedin.com/in/jan-odvar-grindheim-90583352/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jan Odvar Grindheim | LinkedIn"/></a></td>
 
